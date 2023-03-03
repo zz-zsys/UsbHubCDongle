@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "zesys_interface_usb")(type "KiCad")(uri "${ZESYS_KICAD_DIR}/zesys-symbols/zesys_interface_usb.kicad_sym")(options "")(descr ""))
+  (lib (name "zesys_regulator_linear")(type "KiCad")(uri "${ZESYS_KICAD_DIR}/zesys-symbols/zesys_regulator_linear.kicad_sym")(options "")(descr ""))
+  (lib (name "zesys_connectors")(type "KiCad")(uri "${ZESYS_KICAD_DIR}/zesys-symbols/zesys_connectors.kicad_sym")(options "")(descr ""))
+)
